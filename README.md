@@ -3,16 +3,13 @@
 **Predict Risks. Understand Failures. Make Better Decisions.**
 
 An AI-oriented platform designed to assess startup and project risks, analyze potential failure factors, and generate insights to support better decision-making.
-
-[![Python](https://img.shields.io/badge/Python-3.x-blue.svg)](https://www.python.org/)
+[![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen.svg)](https://failure-prediction-ai.onrender.com/dashboard)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
-[![Status](https://img.shields.io/badge/Project-In%20Progress-orange.svg)]()
 
 ## 🌐 Project Links
 
 - **GitHub Repository:** https://github.com/bhavani-nakka/Prediction-Ai
-- **Live Demo:** Coming Soon
-- **Demo Video:** Coming Soon
+- **Live Demo:** https://failure-prediction-ai.onrender.com/dashboard
 
 ## 📌 About the Project
 
